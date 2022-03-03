@@ -1,6 +1,6 @@
 package kosta.mvc.dto;
 
 public class User {
-   String name="¿Â»Ò¡§";
+   String name="∞≠ªÁ";
    int age=20;
 }
