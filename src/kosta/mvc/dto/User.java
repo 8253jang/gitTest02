@@ -1,6 +1,7 @@
 package kosta.mvc.dto;
 
 public class User {
-   String name="นฺมพศึ";
+   String name="นฺมพศึ ฐญป็";
+
    int age=20;
 }
